@@ -11,7 +11,7 @@
         "results": "results",
         "checkpoint": "checkpoint",
         "resume_state": null
-        // "resume_state": "/home/dcy/PBUIE/experiments_train/sr_ffhq_240413_200456/checkpoint/I2900000_E712" //pretrain model or training state
+        // "resume_state": "the path of your model" //pretrain model or training state
     },
     "datasets": {
         "train": {
