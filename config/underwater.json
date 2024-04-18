@@ -17,7 +17,7 @@
         "train": {
             "name": "LSUI",
             "mode": "HR", 
-            "dataroot": "/home/dcy/dataset_256/LSUI_train_16_256",
+            "dataroot": "the path of your train data",
             "datatype": "img", 
             "l_resolution": 16, // low resolution need to super_resolution
             "r_resolution": 256, // high resolution
@@ -29,7 +29,7 @@
         "val": {
             "name": "LSUI",
             "mode": "HR",
-            "dataroot": "/home/dcy/dataset_256/LSUI_val_16_256",
+            "dataroot": "the path of your test data",
             "datatype": "img", 
             "l_resolution": 16,
             "r_resolution": 256,
