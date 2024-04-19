@@ -37,7 +37,7 @@ DatasetName_val_16_256
 ### Test
 1. Download our checkpoints from [Baidu Netdisk]()
 2. Change "resume_state" in the config file to the path of your checkpoints
-3. Change test "dataroot" in the config file to the path like xxx/DatasetName_val_16_256
+3. Change test "dataroot" in the config file to the path like `xxx/DatasetName_val_16_256`
 4. Run :` python infer.py`
 
 ### Train
