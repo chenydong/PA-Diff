@@ -5,9 +5,6 @@ The code of paper "Learning A Physical-aware Diffusion Model Based on  Transform
 - [PyTorch](https://pytorch.org/) 
 - [einops](https://github.com/arogozhnikov/einops)
 - opencv-python
-- tensorboardX
-- lmdb
-- tqdm
 #### Installation
 You should install Pytorch first (This installation command may not be available, please find the appropriate command in [PyTorch](https://pytorch.org/) )
 ```
