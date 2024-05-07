@@ -1,0 +1,5 @@
+einops
+opencv-python
+tensorboardX
+lmdb
+tqdm
