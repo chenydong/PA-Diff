@@ -25,12 +25,12 @@ Prepare dataset:
 train:
 DatasetName_train_16_256  (16 and 256 are set in config)
 ├── hr_256 (GT images)
-└── sr_256 (input images)
+└── sr_16_256 (input images)
 
 test:
 DatasetName_val_16_256 
 ├── hr_256
-└── sr_256
+└── sr_16_256
 
 ```
 
