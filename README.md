@@ -42,7 +42,8 @@ DatasetName_val_16_256
 
 ### Train
 1. Change train "dataroot" in the config file to the path like `xxx/DatasetName_train_16_256`
-2. Run :` python train.py`
+2. Change "resume_state" in the config file to "null"
+3. Run :` python train.py`
 
 ### Citation
 ```
