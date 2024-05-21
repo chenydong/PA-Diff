@@ -5,6 +5,8 @@
 >
 >You can find our paper on [Arxiv](https://arxiv.org/abs/2403.01497)
 
+![Framework](Framework.jpg)
+
 #### Dependencies
 - [PyTorch](https://pytorch.org/) 
 - [einops](https://github.com/arogozhnikov/einops)
