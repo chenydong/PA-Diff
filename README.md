@@ -1,5 +1,9 @@
 # PA-Diff
-The code of paper "Learning A Physical-aware Diffusion Model Based on  Transformer for Underwater Image Enhancement"
+>The code of paper :
+>### Learning A Physical-aware Diffusion Model Based on Transformer for Underwater Image Enhancement
+>Chen Zhao, Chenyu Dong, Weiling Cai
+>
+>You can find our paper on [Arxiv](https://arxiv.org/abs/2403.01497)
 
 #### Dependencies
 - [PyTorch](https://pytorch.org/) 
